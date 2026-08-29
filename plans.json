@@ -1,0 +1,295 @@
+[
+  {
+    "category": "WE Gold",
+    "name": "WE Gold 300",
+    "price": 300,
+    "data_mb": 5500,
+    "minutes": 1200,
+    "sms_note": "Minutes/SMS shared quota",
+    "validity": "Monthly",
+    "source": "https://www.te.eg/en/web/guest/personal/mobile/we-gold"
+  },
+  {
+    "category": "WE Gold",
+    "name": "WE Gold 600",
+    "price": 600,
+    "data_mb": 20000,
+    "minutes": 3700,
+    "sms_note": "Minutes/SMS shared quota",
+    "validity": "Monthly",
+    "source": "https://www.te.eg/en/web/guest/personal/mobile/we-gold"
+  },
+  {
+    "category": "WE Gold",
+    "name": "WE Gold 890",
+    "price": 890,
+    "data_mb": 30000,
+    "minutes": 6000,
+    "sms_note": "Minutes/SMS shared quota",
+    "validity": "Monthly",
+    "source": "https://www.te.eg/en/web/guest/personal/mobile/we-gold"
+  },
+  {
+    "category": "WE Gold",
+    "name": "WE Gold 1200",
+    "price": 1200,
+    "data_mb": 65000,
+    "minutes": 8000,
+    "sms_note": "Minutes/SMS shared quota",
+    "validity": "Monthly",
+    "source": "https://www.te.eg/en/web/guest/personal/mobile/we-gold"
+  },
+  {
+    "category": "WE Gold",
+    "name": "WE Gold 1500",
+    "price": 1500,
+    "data_mb": 70000,
+    "minutes": 9000,
+    "sms_note": "Minutes/SMS shared quota",
+    "validity": "Monthly",
+    "source": "https://www.te.eg/en/web/guest/personal/mobile/we-gold"
+  },
+  {
+    "category": "WE Gold",
+    "name": "WE Gold 2300",
+    "price": 2300,
+    "data_mb": 130000,
+    "minutes": 10000,
+    "sms_note": "Minutes/SMS shared quota",
+    "validity": "Monthly",
+    "source": "https://www.te.eg/en/web/guest/personal/mobile/we-gold"
+  },
+
+  {
+    "category": "WE MIX",
+    "name": "WE Mix 250",
+    "price": 250,
+    "data_mb": 3500,
+    "minutes": 1500,
+    "group_minutes": 250,
+    "home_internet_gb": 150,
+    "sms": 50,
+    "validity": "Monthly",
+    "source": "https://www.te.eg/en/personal/mobile/control-we-mix"
+  },
+  {
+    "category": "WE MIX",
+    "name": "WE Mix 355",
+    "price": 355,
+    "data_mb": 6000,
+    "minutes": 2000,
+    "group_minutes": 500,
+    "home_internet_gb": 190,
+    "sms": 50,
+    "validity": "Monthly",
+    "source": "https://www.te.eg/en/personal/mobile/control-we-mix"
+  },
+
+  {
+    "category": "Super Kix",
+    "name": "Super Kix 29",
+    "price": 29,
+    "kix": 750,
+    "validity": "Monthly",
+    "source": "https://www.te.eg/en/personal/mobile/control/super-kix"
+  },
+  {
+    "category": "Super Kix",
+    "name": "Super Kix 37",
+    "price": 37,
+    "kix": 1000,
+    "validity": "Monthly",
+    "source": "https://www.te.eg/en/personal/mobile/control/super-kix"
+  },
+  {
+    "category": "Super Kix",
+    "name": "Super Kix 52",
+    "price": 52,
+    "kix": 1800,
+    "validity": "Monthly",
+    "source": "https://www.te.eg/en/personal/mobile/control/super-kix"
+  },
+  {
+    "category": "Super Kix",
+    "name": "Super Kix 69",
+    "price": 69,
+    "kix": 2800,
+    "validity": "Monthly",
+    "source": "https://www.te.eg/en/personal/mobile/control/super-kix"
+  },
+  {
+    "category": "Super Kix",
+    "name": "Super Kix 98",
+    "price": 98,
+    "kix": 4200,
+    "validity": "Monthly",
+    "source": "https://www.te.eg/en/personal/mobile/control/super-kix"
+  },
+  {
+    "category": "Super Kix",
+    "name": "Super Kix 120",
+    "price": 120,
+    "kix": 5500,
+    "validity": "Monthly",
+    "source": "https://www.te.eg/en/personal/mobile/control/super-kix"
+  },
+  {
+    "category": "Super Kix",
+    "name": "Super Kix 150",
+    "price": 150,
+    "kix": 6500,
+    "validity": "Monthly",
+    "source": "https://www.te.eg/en/personal/mobile/control/super-kix"
+  },
+
+  {
+    "category": "Tazbeet",
+    "name": "Tazbeet 46",
+    "price": 46,
+    "data_mb": 1250,
+    "minutes": 300,
+    "validity": "Monthly",
+    "source": "https://www.te.eg/en/personal/mobile/control-tazbeet"
+  },
+  {
+    "category": "Tazbeet",
+    "name": "Tazbeet 58",
+    "price": 58,
+    "data_mb": 2250,
+    "minutes": 400,
+    "validity": "Monthly",
+    "source": "https://www.te.eg/en/personal/mobile/control-tazbeet"
+  },
+  {
+    "category": "Tazbeet",
+    "name": "Tazbeet 105",
+    "price": 105,
+    "data_mb": 5250,
+    "minutes": 500,
+    "validity": "Monthly",
+    "source": "https://www.te.eg/en/personal/mobile/control-tazbeet"
+  },
+  {
+    "category": "Tazbeet",
+    "name": "Tazbeet 165",
+    "price": 165,
+    "data_mb": 11250,
+    "minutes": 600,
+    "validity": "Monthly",
+    "source": "https://www.te.eg/en/personal/mobile/control-tazbeet"
+  },
+
+  {
+    "category": "Nitro Prime",
+    "name": "Nitro Prime 15",
+    "price": 15,
+    "data_mb": 781,
+    "validity": "28 Days",
+    "source": "https://www.te.eg/en/web/guest/personal/mobile/nitro-mobile-internet/prime"
+  },
+  {
+    "category": "Nitro Prime",
+    "name": "Nitro Prime 29",
+    "price": 29,
+    "data_mb": 1718,
+    "validity": "28 Days",
+    "source": "https://www.te.eg/en/web/guest/personal/mobile/nitro-mobile-internet/prime"
+  },
+  {
+    "category": "Nitro Prime",
+    "name": "Nitro Prime 58",
+    "price": 58,
+    "data_mb": 4062,
+    "validity": "28 Days",
+    "source": "https://www.te.eg/en/web/guest/personal/mobile/nitro-mobile-internet/prime"
+  },
+  {
+    "category": "Nitro Prime",
+    "name": "Nitro Prime 105",
+    "price": 105,
+    "data_mb": 7812,
+    "validity": "28 Days",
+    "source": "https://www.te.eg/en/web/guest/personal/mobile/nitro-mobile-internet/prime"
+  },
+  {
+    "category": "Nitro Prime",
+    "name": "Nitro Prime 150",
+    "price": 150,
+    "data_mb": 12500,
+    "validity": "28 Days",
+    "source": "https://www.te.eg/en/web/guest/personal/mobile/nitro-mobile-internet/prime"
+  },
+  {
+    "category": "Nitro Prime",
+    "name": "Nitro Prime 300",
+    "price": 300,
+    "data_mb": 29375,
+    "validity": "28 Days",
+    "source": "https://www.te.eg/en/web/guest/personal/mobile/nitro-mobile-internet/prime"
+  },
+  {
+    "category": "Nitro Prime",
+    "name": "Nitro Prime 675",
+    "price": 675,
+    "data_mb": 62500,
+    "validity": "90 Days",
+    "source": "https://www.te.eg/en/web/guest/personal/mobile/nitro-mobile-internet/prime"
+  },
+
+  {
+    "category": "Nitro MiFi",
+    "name": "Nitro MiFi 15",
+    "price": 15,
+    "data_mb": 625,
+    "validity": "28 Days",
+    "source": "https://www.te.eg/en/personal/mobile/nitro-mifi"
+  },
+  {
+    "category": "Nitro MiFi",
+    "name": "Nitro MiFi 29",
+    "price": 29,
+    "data_mb": 1375,
+    "validity": "28 Days",
+    "source": "https://www.te.eg/en/personal/mobile/nitro-mifi"
+  },
+  {
+    "category": "Nitro MiFi",
+    "name": "Nitro MiFi 58",
+    "price": 58,
+    "data_mb": 3250,
+    "validity": "28 Days",
+    "source": "https://www.te.eg/en/personal/mobile/nitro-mifi"
+  },
+  {
+    "category": "Nitro MiFi",
+    "name": "Nitro MiFi 105",
+    "price": 105,
+    "data_mb": 6250,
+    "validity": "28 Days",
+    "source": "https://www.te.eg/en/personal/mobile/nitro-mifi"
+  },
+  {
+    "category": "Nitro MiFi",
+    "name": "Nitro MiFi 150",
+    "price": 150,
+    "data_mb": 10000,
+    "validity": "28 Days",
+    "source": "https://www.te.eg/en/personal/mobile/nitro-mifi"
+  },
+  {
+    "category": "Nitro MiFi",
+    "name": "Nitro MiFi 300",
+    "price": 300,
+    "data_mb": 23500,
+    "validity": "28 Days",
+    "source": "https://www.te.eg/en/personal/mobile/nitro-mifi"
+  },
+  {
+    "category": "Nitro MiFi",
+    "name": "Nitro MiFi 675",
+    "price": 675,
+    "data_mb": 50000,
+    "validity": "90 Days",
+    "source": "https://www.te.eg/en/personal/mobile/nitro-mifi"
+  }
+]
